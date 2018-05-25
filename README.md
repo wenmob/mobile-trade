@@ -32,8 +32,6 @@ username-001200001 psw-111
 ##手机端股票交易
 
 ![描述](https://github.com/wenmob/mobile-trade/blob/master/1.png)
-![描述](https://github.com/wenmob/mobile-trade/blob/master/2.png)
-![描述](https://github.com/wenmob/mobile-trade/blob/master/3.png)
-![描述](https://github.com/wenmob/mobile-trade/blob/master/4.png)
+
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
