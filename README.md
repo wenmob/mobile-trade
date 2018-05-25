@@ -27,7 +27,6 @@ npm run e2e
 npm test
 
 #test login
-username-001200001 psw-111
 
 ##手机端股票交易
 
