@@ -29,7 +29,8 @@ npm test
 #test login
 username-001200001 psw-111
 
-#手机端股票交易
+##手机端股票交易
+
 ![描述](https://github.com/wenmob/mobile-trade/blob/master/1.png)
 ![描述](https://github.com/wenmob/mobile-trade/blob/master/2.png)
 ![描述](https://github.com/wenmob/mobile-trade/blob/master/3.png)
